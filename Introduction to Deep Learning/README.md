@@ -6,3 +6,6 @@
 * Review on TensorFlow programming
 ### Week3
 * CNNs
+### Week4
+* UnSupervised Learning
+
